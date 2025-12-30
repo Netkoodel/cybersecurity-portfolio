@@ -1,6 +1,6 @@
 Cybersecurity Portfolio
 
-Junior Cybersecurity Specialist | SOC Analyst | (ISC)² CC Certified
+Virtual Cybersecurity & Networking Lab
 
 Hands-on experience in vulnerability assessment, SOC operations, and network security analysis. This repository contains detailed lab reports and security analyses demonstrating practical cybersecurity skills.
 
